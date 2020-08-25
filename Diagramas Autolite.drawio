@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-20T03:47:23.785Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="qFvHxLeyWjsA8rw95OQT" version="13.6.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-08-25T05:52:20.018Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="WWs4F8Zp0_nIUzoDZKWP" version="13.6.4" type="github" pages="4">
   <diagram id="ntNjZDDkq73_ec1f_YK3" name="Diagrama Casos de Uso">
-    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -107,8 +107,8 @@
           <mxGeometry x="1025" y="136" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lnSNaVBU82VKdu5e3Si3-112" value="&amp;lt;&amp;lt;Include&amp;gt;&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="lnSNaVBU82VKdu5e3Si3-108" target="lnSNaVBU82VKdu5e3Si3-89" edge="1">
-          <mxGeometry x="0.0055" y="-22" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
+          <mxGeometry x="0.0078" y="-8" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lnSNaVBU82VKdu5e3Si3-108" value="Registrar Servicios" style="ellipse;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=none;" parent="1" vertex="1">
@@ -134,7 +134,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vQz4shwP_uGOvYtv31wh" name="Diagrma de actividades">
-    <mxGraphModel dx="1038" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2076" dy="2231" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="lR7XqGbU1CMXhv0G3DHX-0" />
         <mxCell id="lR7XqGbU1CMXhv0G3DHX-1" parent="lR7XqGbU1CMXhv0G3DHX-0" />
@@ -280,7 +280,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MSyIZBkSuXineH_Eokw3" name="Diagrama de Secuencia">
-    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="DYir2wJjlvnxcsO95Mj_-0" />
         <mxCell id="DYir2wJjlvnxcsO95Mj_-1" parent="DYir2wJjlvnxcsO95Mj_-0" />
@@ -528,7 +528,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3IxuRfB0wva1aa3_hREr" name="Diagrmas de Clases">
-    <mxGraphModel dx="593" dy="313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="3NEA08iB7-uPyu0g2pBj-0" />
         <mxCell id="3NEA08iB7-uPyu0g2pBj-1" parent="3NEA08iB7-uPyu0g2pBj-0" />
